@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-egg",
+  "root": true,
+  "rules": {
+    "semi": ["error", "never"]//配置不允许有分号 
+  }
+}
